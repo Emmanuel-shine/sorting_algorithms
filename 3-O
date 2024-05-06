@@ -1,3 +1,4 @@
-Best case: O(n log n) - In the best case, Quick sort will divide the array into nearly equal partitions, resulting in a balanced recursion tree and efficient sorting.
-Average case: O(n log n) - In the average case, Quick sort exhibits optimal performance, partitioning the array into balanced subarrays and sorting them efficiently.
-Worst case: O(n^2) - In the worst case, Quick sort may perform poorly if the pivot selection results in highly unbalanced partitions, leading to a degenerate recursion tree and inefficient sorting.
+O(n log n)  // Best case
+O(n log n)  // Average case
+O(n^2)      // Worst case
+
