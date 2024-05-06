@@ -4,7 +4,6 @@
 #include <stddef.h>
 
 void print_array(const int *array, size_t size);
-void quick_sort(int *array, size_t size);
+void shell_sort(int *array, size_t size);
 
 #endif /* SORT_H */
-
