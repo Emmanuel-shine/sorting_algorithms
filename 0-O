@@ -1,0 +1,3 @@
+Best case: O(n) - If the array is already sorted, bubble sort will only perform one pass through the array, resulting in a linear time complexity.
+Average case: O(n^2) - In the average case, bubble sort will perform nested loops through the array, resulting in quadratic time complexity.
+Worst case: O(n^2) - If the array is sorted in reverse order, bubble sort will require multiple passes through the array, resulting in quadratic time complexity.
