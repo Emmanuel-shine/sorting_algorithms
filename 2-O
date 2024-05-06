@@ -1,3 +1,6 @@
-Best case: O(n^2) - In the best case, Selection sort will perform nested loops through the array, resulting in quadratic time complexity.
-Average case: O(n^2) - In the average case, Selection sort will perform nested loops through the array, resulting in quadratic time complexity.
-Worst case: O(n^2) - In the worst case, Selection sort will perform nested loops through the array, resulting in quadratic time complexity.
+/* 2-O */
+
+Best case: O(n^2)
+Average case: O(n^2)
+Worst case: O(n^2)
+
