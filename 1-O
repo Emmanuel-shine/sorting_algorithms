@@ -1,3 +1,3 @@
-Best case: O(n)
-Average case: O(n^2)
-Worst case: O(n^2)
+Best case: O(n) - This occurs when the list is already sorted, and the algorithm only needs to iterate through the list once.
+Average case: O(n^2) - This happens when elements are randomly distributed in the list, leading to multiple comparisons and swaps.
+Worst case: O(n^2) - This occurs when the list is sorted in reverse order, resulting in the maximum number of comparisons and swaps at each step.
