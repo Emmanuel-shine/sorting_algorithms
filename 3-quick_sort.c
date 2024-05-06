@@ -1,5 +1,5 @@
-#include "sort.h"
 #include <stdio.h>
+#include "sort.h"
 
 /**
  * swap - Swaps two integers in an array and prints the array
